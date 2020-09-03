@@ -7,4 +7,4 @@ stage ('Compile-Package'){
 def mvnHome = tool name: 'maven4', type: 'maven'
 sh "${mvnHome}/bin/mvn package"
 }
-}
+
