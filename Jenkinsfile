@@ -26,7 +26,6 @@ pipeline {
       steps {
         withMaven(maven : 'maven3') {
           sh 'mvn clean deploy'
-       
             }
         }
     }
