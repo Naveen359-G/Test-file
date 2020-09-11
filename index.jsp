@@ -1,5 +1,5 @@
 <html>
-<body style="background-color:skyblue;">
+<body style="background-color:Blue;">
 
 <h1 style="text-align:center;">Welcome</h1>
 <p style="text-align:center;"> I am Naveen Kumar</p>
